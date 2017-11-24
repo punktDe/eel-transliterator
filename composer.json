@@ -1,0 +1,19 @@
+{
+    "description": "Exposes methods from behat/transliterator to Neos Eel",
+    "type": "neos-package",
+    "name": "punktde/eel-transliterator",
+    "require": {
+        "neos/flow": "*",
+        "behat/transliterator": "^1.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "PunktDe\\Eel\\Transliterator\\": "Classes/"
+        }
+    },
+    "extra": {
+        "neos": {
+            "package-key": "PunktDe.Eel.Transliterator"
+        }
+    }
+}

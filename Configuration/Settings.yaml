@@ -1,0 +1,4 @@
+Neos:
+  Fusion:
+    defaultContext:
+      PunktDe.Transliterator: 'PunktDe\Eel\Transliterator\TransliteratorHelper'
