@@ -1,6 +1,7 @@
 {
     "description": "Exposes methods from behat/transliterator to Neos Eel",
     "type": "neos-package",
+    "license": "MIT",
     "name": "punktde/eel-transliterator",
     "require": {
         "neos/flow": "*",
